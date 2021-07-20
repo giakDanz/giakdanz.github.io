@@ -1,33 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="027dcb9e-8603-4103-8338-fe018be56e69" name="Default Changelist" comment="v 0.2">
-      <change afterPath="$PROJECT_DIR$/public/images/Ellipse 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/Mulish-Italic-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/Mulish-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pdf/esika.peru.c11.2021.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/esika.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+    <list default="true" id="027dcb9e-8603-4103-8338-fe018be56e69" name="Default Changelist" comment="v 0.3">
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/Mulish-Italic-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/Mulish-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Mulish/static/Mulish-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/esika.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/esika.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +78,7 @@
       <workItem from="1626663036926" duration="2882000" />
       <workItem from="1626725269479" duration="540000" />
       <workItem from="1626725830701" duration="394000" />
-      <workItem from="1626726241482" duration="8677000" />
+      <workItem from="1626726241482" duration="9349000" />
     </task>
     <task id="LOCAL-00001" summary="v 0.0">
       <created>1626663814595</created>
@@ -106,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626665017376</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="v 0.3">
+      <created>1626739609275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626739609275</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +131,7 @@
     <MESSAGE value="v 0.0" />
     <MESSAGE value="v 0.1" />
     <MESSAGE value="v 0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="v 0.2" />
+    <MESSAGE value="v 0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="v 0.3" />
   </component>
 </project>
